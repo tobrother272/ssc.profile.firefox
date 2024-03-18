@@ -1,0 +1,7 @@
+target/
+tool/browser.zip
+tool/
+temps/
+temps_sh/
+databases/
+*.log

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="proxyPort" value="13060" />
+    <string name="proxyName"></string>
+    <string name="proxyUsername">theanh</string>
+    <string name="proxyTypeName">HTTPS</string>
+    <string name="proxyPassword">ykSKL2LMoZBdsqoSzk1uhM/iq85+Aw==</string>
+    <string name="proxyPassword_iv">PHn2XxyjkrbXzhHE</string>
+    <string name="proxyHost">viettel8.ddns.net</string>
+</map>
